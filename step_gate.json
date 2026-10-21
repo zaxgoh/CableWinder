@@ -1,0 +1,10 @@
+{
+  "banked": true,
+  "filename": "D:\\Projects\\Build123d\\CableWinder\\rebuilt.step",
+  "replaced_existing_output": true,
+  "snapshot_saved": true,
+  "snapshot_name": "insert_migration_verified",
+  "next_tool_call": "recognise_features(object_name='insert_notebook_rebuilt')",
+  "note": "The written STEP passed the gate and is now the safe floor. For an imported B-rep edit, run compact then targeted recognition before manual topology walking.",
+  "export_report": "Exported to D:\\Projects\\Build123d\\CableWinder\\bank-candidate-_s9k20ne.step\nvolume 2.358e+04 mm³, bbox 65.11×65.09×16.6 mm, 1289 faces\n⚠ NOTE — whether the solid bodies overlap was not determined (too many bodies, or the intersection sweep ran out of budget), so the volume reported above cannot be assumed free of double-counted material."
+}
